@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xa4b5c315538524C4015A1Cca6c45f8328a1A6B6b",
-  "SCAN_LINK": "https://polygonscan.com/token/0xa4b5c315538524C4015A1Cca6c45f8328a1A6B6b",
+  "CONTRACT_ADDRESS": "0x4cdc930814606cf6861ba009296b27dfccb39663",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x4cdc930814606cf6861ba009296b27dfccb39663",
   "NETWORK": {
     "NAME": "Rinkeby Test",
     "SYMBOL": "ETH",
