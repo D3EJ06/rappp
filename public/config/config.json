@@ -7,12 +7,12 @@
     "ID": 137
   },
   "NFT_NAME": "RadioactivePunk",
-  "SYMBOL": "RRaPP",
+  "SYMBOL": "RAP",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 789000000000000,
   "DISPLAY_COST": 0.000789,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/radioactive-punk",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/radioactivepunkz",
   "SHOW_BACKGROUND": true
 }
