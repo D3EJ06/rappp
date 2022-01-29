@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x4cdc930814606cf6861ba009296b27dfccb39663",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x4cdc930814606cf6861ba009296b27dfccb39663",
+  "CONTRACT_ADDRESS": "0x2ed871a2a88a888b800aec47d515c77b8cc30f82",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2ed871a2a88a888b800aec47d515c77b8cc30f82",
   "NETWORK": {
-    "NAME": "Rinkeby Test",
-    "SYMBOL": "ETH",
-    "ID": 4
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
   "NFT_NAME": "RadioactivePunk",
   "SYMBOL": "RRaPP",
-  "MAX_SUPPLY": 10000,
-  "WEI_COST": 40000000000000,
-  "DISPLAY_COST": 0.0006,
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 789000000000000,
+  "DISPLAY_COST": 0.000789,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/radioactive-punk",
