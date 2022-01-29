@@ -249,13 +249,13 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.pdf", "_blank");
+                  window.open("https://twitter.com/D3ej_Nft", "_blank");
                 }}
                 style={{
                   margin: "5px",
                 }}
               >
-                Roadmap
+                Twitter
               </StyledButton>
               <StyledButton
                 style={{
